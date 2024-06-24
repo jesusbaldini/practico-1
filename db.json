@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "los 7 habitos de la gente altamente efectiva",
+            "author": "Stephen R Covery",
+            "year": 1989
+        },
+        {
+            "id": 2,
+            "name": "Padre Rico, padre pobre",
+            "author": "Robert Kiyosaki",
+            "year": 1987
+        },
+        {
+            "id": 3,
+            "title": "Ojos de Perro Siberiano",
+            "author": "Antonio Santana",
+            "year": 1998
+        }
+    ]
+}
